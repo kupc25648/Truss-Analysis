@@ -9,7 +9,7 @@ and will calculate deformations of the structure.
 
 Why the project is useful?
 
-  I am architectural graduated from Thailand. Now I am studying master course structural analysis in Japan. 
+  I am architectural graduated from Thailand. Now I am studying master course about structural analysis in Japan. 
 Being new with both python programing and structural analysis, this small project took me around 4 months to finish.
 If you are someone who is trying to program your own structural analysis program, I hope this repository can helps.
 
