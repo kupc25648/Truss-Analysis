@@ -4,7 +4,7 @@ Matrix Analysis of Truss Structure
 What the project does?
 
   This is the Program to calculate 3D Truss Structure using Matrix Analysis Method.
-By giving input data of truss structures, loads and restrains, The program will from the structure stiffness matrix 
+By giving input data of truss structures, loads and restrains, The program will form the structure stiffness matrix 
 and will calculate deformations of the structure.
 
 Why the project is useful?
@@ -25,7 +25,7 @@ output data will be given with a render.
 
 Where users can get help with your project?
 
-  Please feel free to contact me in at kupc25648@hotmail.com
+  Please feel free to contact me at kupc25648@hotmail.com
   
 
 
