@@ -25,7 +25,7 @@ output data will be given with a render.
 
 Where users can get help with your project?
 
-  Please feel free to contact me in ISSUE template
+  Please feel free to contact me in at kupc25648@hotmail.com
   
 
 
